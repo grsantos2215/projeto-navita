@@ -6,7 +6,7 @@ solicitado a partir do processo seletivo da empresa Navita, feito de forma respo
 fiz com base no Mobile-First e adaptando-o para a web.
 ```
 
-## Instalando as dependência
+## Instalando as dependências
 
 ```
 npm install
